@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/quintin156/Interactive-Rating-Component]
-- Live Site URL: [Add live site URL here]
+- Live Site URL: [https://quintin156.github.io/Interactive-Rating-Component/]
 
 ## My process
 
