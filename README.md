@@ -42,6 +42,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.quintin-latimore.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/quintin156)
+- Website - [Quintin Latimore](https://www.quintin-latimore.com)
+- Frontend Mentor - [@quintin156](https://www.frontendmentor.io/profile/quintin156)
 
